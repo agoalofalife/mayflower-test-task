@@ -1,3 +1,8 @@
+<p align="center"> 
+ <a href="https://orchid.software/"><img src="./preview.jpg" alt="Preview"></a>
+</p>
+
+
 ## Проект
 
 Данный проект представляет собой результат моей профессиональной работы.
